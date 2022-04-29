@@ -1,0 +1,11 @@
+__pycache__*
+*.egg-info*
+docs
+.vscode
+
+nc_comment
+
+data/raw/kinematics/*
+!data/raw/kinematics/RS
+data/raw/spike/*
+!data/raw/spike/RS
