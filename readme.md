@@ -1,6 +1,6 @@
-# Paddy Study #3
+# Bakenecker et al. 2022
 
-This repository shares all the python code used to analyze the data of the underlying study. The folder 'paddystudy3' thereby contains all the code used to analyze the date. In the subdirectory 'util' there are two modules that each contain one function. 
+This repository shares all the python code used to analyze the data of the underlying study. The folder 'bakenecker2022' thereby contains all the code used to analyze the date. In the subdirectory 'util' there are two modules that each contain one function. 
 'import_vicon_lbi' is used to import and label the kinematic-marker data.
 'calculate_wavespeed' processes the raw wave speed data from the two accelerometers and calculates the wave speed.
 
@@ -15,4 +15,4 @@ Trials are named as following:
 - Leg flexion MVC: BF_MVC
 
 
-The directory 'spike' contains the scripts used to acquire the data.# Bakenecker_et_al_2022
+The directory 'spike' contains the scripts used to acquire the data.
